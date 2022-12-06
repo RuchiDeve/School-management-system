@@ -1,0 +1,5 @@
+Name,Gender,Age,IsPresent,Role,CourseList
+Violet,Female,30,TRUE,Principal,Nil
+Jane,Female,37,TRUE,Teacher,Mathematics
+Godwin,Male,23,TRUE,Teacher,English
+Victor,Male,21,TRUE,Teacher,Physics
